@@ -19,8 +19,8 @@
     ],
     "pools": [
         {
-            "url": "pool.minexmr.com:5555",
-            "user": "47eqqKu3fGYcV272QFggNtN3zRMzMT1ArELr5mdRPGQd6WT24C4M9GAHhsLo9Y9knQBkwHm7R5kHhjmWf5TjWgHEH4GtZYi",
+            "url": "failover.xmrig.com:443",
+            "user": "YOUR_WALLET",
             "pass": "x",
             "keepalive": true,
             "nicehash": false,
